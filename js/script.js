@@ -1,4 +1,4 @@
-console.log("i am first line");
+/*console.log("i am first line");
 console.log("i am second line");
 document.write("ja file is connected");
 /*document.write("ja file 'is' connected");
@@ -9,7 +9,7 @@ document.write("ja file 'is' connected");
 document.write("ja file 'is' connected");
 document.write("ja file 'is' connected");
 */
-
+/*
 var x;
 x = prompt("Enter your name: ");
 console.log(x);
@@ -70,3 +70,9 @@ document.write("true,try,typeof,var,</br>")
 document.write("void,volatile,while,with,</br>")
 document.write("yield,</br>")
 document.write("class,enum,export,extends,import,super</br>")
+
+
+var temp = prompt("Please enter temperature :");
+var result = 9/5*temp + 32;
+alert("fahrenheit: "+ "result"+ "Degree");
+console.log("Task Complete!")*/
